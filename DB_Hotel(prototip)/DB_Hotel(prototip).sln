@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB_Hotel(prototip)", "DB_Hotel(prototip).csproj", "{B65D6AEF-6799-4970-AD44-2AF35B0640A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Hotel_DB(ver 0)|Any CPU = Hotel_DB(ver 0)|Any CPU
+		Hotel_DB(ver 0)|x64 = Hotel_DB(ver 0)|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B65D6AEF-6799-4970-AD44-2AF35B0640A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B65D6AEF-6799-4970-AD44-2AF35B0640A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B65D6AEF-6799-4970-AD44-2AF35B0640A8}.Debug|x64.ActiveCfg = Debug|x64
+		{B65D6AEF-6799-4970-AD44-2AF35B0640A8}.Debug|x64.Build.0 = Debug|x64
+		{B65D6AEF-6799-4970-AD44-2AF35B0640A8}.Hotel_DB(ver 0)|Any CPU.ActiveCfg = Hotel_DB(ver 0)|Any CPU
+		{B65D6AEF-6799-4970-AD44-2AF35B0640A8}.Hotel_DB(ver 0)|Any CPU.Build.0 = Hotel_DB(ver 0)|Any CPU
+		{B65D6AEF-6799-4970-AD44-2AF35B0640A8}.Hotel_DB(ver 0)|x64.ActiveCfg = Hotel_DB(ver 0)|x64
+		{B65D6AEF-6799-4970-AD44-2AF35B0640A8}.Hotel_DB(ver 0)|x64.Build.0 = Hotel_DB(ver 0)|x64
+		{B65D6AEF-6799-4970-AD44-2AF35B0640A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B65D6AEF-6799-4970-AD44-2AF35B0640A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B65D6AEF-6799-4970-AD44-2AF35B0640A8}.Release|x64.ActiveCfg = Release|x64
+		{B65D6AEF-6799-4970-AD44-2AF35B0640A8}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E313199F-2BD8-401A-A922-92D0AB633626}
+	EndGlobalSection
+EndGlobal

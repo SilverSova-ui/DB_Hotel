@@ -1,0 +1,93 @@
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\bin\x64\Hotel_DB(ver 0)\DB_Hotel(prototip).exe.config
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\bin\x64\Hotel_DB(ver 0)\DB_Hotel(prototip).exe
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Authoriazation.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Choice_User.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Clients.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Conection.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Create Users.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Customer account.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Delete Users.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Hotel rooms.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Main Client.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\MainWindow.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\personnel department.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Positionen.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Rooms.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Service to customers.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Services provided to the client.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Services.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\SQL Query.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Staff.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\App.g.cs
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\DB_Hotel(prototip)_MarkupCompile.cache
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\DB_Hotel(prototip)_MarkupCompile.lref
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Authoriazation.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Choice_User.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Clients.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Conection.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Create Users.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Customer account.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Delete Users.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Hotel rooms.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Main Client.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\MainWindow.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\personnel department.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Positionen.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Rooms.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Service to customers.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Services provided to the client.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Services.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\SQL Query.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Staff.baml
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\DB_Hotel(prototip).g.resources
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\DB_Hotel_prototip_.Properties.Resources.resources
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\DB_Hotel(prototip).csproj.GenerateResource.cache
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\DB_Hotel(prototip).csproj.CoreCompileInputs.cache
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\DB_Hotel(prototip).exe
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\bin\x64\Hotel_DB(ver 0)\DB_Hotel(prototip).exe.config
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\bin\x64\Hotel_DB(ver 0)\DB_Hotel(prototip).exe
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Authoriazation.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Choice_User.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Clients.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Conection.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Create Users.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Customer account.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Delete Users.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Hotel rooms.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Main Client.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\MainWindow.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\personnel department.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Positionen.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Rooms.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Service to customers.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Services provided to the client.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Services.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\SQL Query.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Staff.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\App.g.cs
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\DB_Hotel(prototip)_MarkupCompile.cache
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\DB_Hotel(prototip)_MarkupCompile.lref
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Authoriazation.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Choice_User.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Clients.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Conection.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Create Users.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Customer account.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Delete Users.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Hotel rooms.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Main Client.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\MainWindow.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\personnel department.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Positionen.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Rooms.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Service to customers.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Services provided to the client.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Services.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\SQL Query.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\Staff.baml
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\DB_Hotel(prototip).g.resources
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\DB_Hotel_prototip_.Properties.Resources.resources
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\DB_Hotel(prototip).csproj.GenerateResource.cache
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\DB_Hotel(prototip).csproj.CoreCompileInputs.cache
+E:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\DB_Hotel(prototip).exe
+G:\КП_03 Кузнецов М.П\DB_Hotel(prototip)\obj\x64\Hotel_DB(ver 0)\DB_Hotel(prototip).csprojAssemblyReference.cache

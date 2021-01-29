@@ -1,0 +1,41 @@
+﻿<Window x:Class="DB_Hotel_prototip_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DB_Hotel_prototip_"
+        mc:Ignorable="d"
+        Title="DB_Hotel" Height="796.12" Width="731.2"
+        MinHeight="796.12" MinWidth="731.2"
+        MaxHeight="1080" MaxWidth="1920"
+        WindowState="Maximized"
+        WindowStartupLocation="CenterScreen" FontSize="20" Icon="H.ico" KeyDown="Window_KeyDown">
+    <Grid HorizontalAlignment="Center">
+        <Image Name="staff" HorizontalAlignment="Left" Height="121" Margin="380,161,0,0" VerticalAlignment="Top" Width="132" Source="Staff.png" MouseLeftButtonUp="Image_MouseLeftButtonUp"/>
+        <TextBlock Name="staff_text" HorizontalAlignment="Left" Margin="375,286,0,0" TextWrapping="Wrap" Text="Сотрудники" VerticalAlignment="Top" Width="132" FontSize="20" FontFamily="Segoe UI Historic" TextAlignment="Center" MouseLeftButtonUp="TextBlock_MouseLeftButtonUp"/>
+        <Image Name="Sql_query" HorizontalAlignment="Left" Height="87" Margin="74,176,0,0" VerticalAlignment="Top" Width="88" Source="sql.png" MouseLeftButtonUp="Sql_query_MouseLeftButtonUp"/>
+        <TextBlock Name="Sql_query_Text" HorizontalAlignment="Left" Margin="61,286,0,0" TextWrapping="Wrap" Text="SQL-Запрос" VerticalAlignment="Top" FontFamily="Segoe UI Historic" FontSize="20" TextAlignment="Center" MouseLeftButtonUp="Sql_query_Text_MouseLeftButtonUp"/>
+        <Image Name="job" HorizontalAlignment="Left" Height="85" Margin="220,176,0,0" VerticalAlignment="Top" Width="80" Source="Doljnostei.png" MouseLeftButtonUp="Image_MouseLeftButtonUp_1"/>
+        <TextBlock Name="job_text" HorizontalAlignment="Left" Margin="210,286,0,0" TextWrapping="Wrap" Text="Должности" VerticalAlignment="Top" FontSize="20" TextAlignment="Center" MouseLeftButtonUp="TextBlock_MouseLeftButtonUp_1"/>
+        <Image Name="Hotel" HorizontalAlignment="Left" Height="85" Margin="580,176,0,0" VerticalAlignment="Top" Width="100" Source="Room.png" MouseLeftButtonUp="Image_MouseLeftButtonUp_2"/>
+        <TextBlock Name="Hotel_text" HorizontalAlignment="Left" Margin="545,286,0,0" TextWrapping="Wrap" Text="Номера" VerticalAlignment="Top" FontFamily="Segoe UI Historic" FontSize="20" TextAlignment="Center" Width="158" MouseLeftButtonUp="TextBlock_MouseLeftButtonUp_2"/>
+        <Image Name="Service" HorizontalAlignment="Left" Height="100" Margin="82,362,0,0" VerticalAlignment="Top" Width="60" Source="Service.png" MouseLeftButtonUp="Image_MouseLeftButtonUp_3"/>
+        <Image Name="Cli" HorizontalAlignment="Left" Height="100" Margin="410,362,0,0" VerticalAlignment="Top" Width="102" Source="Clients.png" MouseLeftButtonUp="Image_MouseLeftButtonUp_5"/>
+        <Image Name="Service_Cli" HorizontalAlignment="Left" Height="100" Margin="225,364,0,0" VerticalAlignment="Top" Width="100" Source="Clients-Service.png" MouseLeftButtonUp="Image_MouseLeftButtonUp_4"/>
+        <TextBlock Name="Service_text" HorizontalAlignment="Left" Margin="80,480,0,0" TextWrapping="Wrap" Text="Сервис" VerticalAlignment="Top" FontFamily="Segoe UI Historic" TextAlignment="Center" MouseLeftButtonUp="TextBlock_MouseLeftButtonUp_3"/>
+        <TextBlock Name="Service_Cli_text" HorizontalAlignment="Left" Margin="190,478,0,0" TextWrapping="Wrap" Text="Услуги предоставляемые клиенту" VerticalAlignment="Top" Width="177" TextAlignment="Center" RenderTransformOrigin="-0.034,0.484" MouseLeftButtonUp="TextBlock_MouseLeftButtonUp_4"/>
+        <TextBlock Name="Cli_text" HorizontalAlignment="Left" Margin="412,481,0,0" TextWrapping="Wrap" Text="Клиенты" VerticalAlignment="Top" MouseLeftButtonUp="TextBlock_MouseLeftButtonUp_6"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="310,25,0,0" TextWrapping="Wrap" Text="Hotel_DB" VerticalAlignment="Top" Height="29" Width="107" FontFamily="Arial Unicode MS" FontSize="24"/>
+        <TextBlock Name="login_object" HorizontalAlignment="Left" Margin="514,18,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="180" TextAlignment="Center" Height="36" FontSize="18"/>
+        <Button Content="Выход из профиля" HorizontalAlignment="Left" Margin="514,104,0,0" VerticalAlignment="Top" Width="180" Height="37" Click="Button_Click"/>
+        <Image x:Name="Hotel_room" HorizontalAlignment="Left" Height="100" Margin="74,176,0,0" VerticalAlignment="Top" Width="88" Source="Hotel rooms.png" MouseLeftButtonUp="image_MouseLeftButtonUp_6"/>
+        <TextBlock x:Name="Hotel_room_text" HorizontalAlignment="Left" Margin="61,286,0,0" TextWrapping="Wrap" Text="Номера гостиницы" VerticalAlignment="Top" MouseLeftButtonUp="TextBlock_MouseLeftButtonUp_5" Width="108" TextAlignment="Center"/>
+        <Image Name="Personnel" HorizontalAlignment="Left" Height="77" Margin="80,186,0,0" VerticalAlignment="Top" Width="80" Source="Personnel.png" MouseLeftButtonUp="Personnel_MouseLeftButtonUp"/>
+        <TextBlock x:Name="Personnel_text" HorizontalAlignment="Left" Margin="61,286,0,0" TextWrapping="Wrap" Text="Отдел кадров" VerticalAlignment="Top" Width="108" TextAlignment="Center" MouseLeftButtonUp="Personnel_text_MouseLeftButtonUp"/>
+        <Image x:Name="Service_Client" HorizontalAlignment="Left" Height="92" Margin="80,176,0,0" VerticalAlignment="Top" Width="89" Source="Service_Client.png" MouseLeftButtonUp="Service_Client_MouseLeftButtonUp"/>
+        <TextBlock x:Name="Service_Client_text" HorizontalAlignment="Left" Margin="74,286,0,0" TextWrapping="Wrap" Text="Услуги клиенту" VerticalAlignment="Top" Width="81" TextAlignment="Center" MouseLeftButtonUp="Service_Client_text_MouseLeftButtonUp"/>
+        <TextBlock x:Name="login_role" HorizontalAlignment="Left" Height="24" Margin="514,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="179" TextAlignment="Center" FontSize="12"><Run Text="TextBox"/></TextBlock>
+        <Image Name="User" HorizontalAlignment="Left" Height="100" Margin="568,571,0,0" VerticalAlignment="Top" Width="100" MouseLeftButtonUp="Image_MouseLeftButtonUp_7" Source="Profile+.png"/>
+        <TextBlock x:Name="Create" HorizontalAlignment="Left" Height="80" Margin="524,676,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="179" TextAlignment="Center" FontSize="20" MouseLeftButtonUp="Create_MouseLeftButtonUp"><Run Text="Создание или удаление пользователей"/></TextBlock>
+    </Grid>
+</Window>

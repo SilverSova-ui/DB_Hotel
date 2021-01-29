@@ -1,0 +1,33 @@
+﻿<Window x:Class="DB_Hotel_prototip_.Main_Client"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DB_Hotel_prototip_"
+        mc:Ignorable="d"
+        Title="DB_Hotel Main_Client" Height="707.568" Width="1402.5"
+        WindowState="Maximized"
+        WindowStartupLocation="CenterScreen" Icon="H.ico" KeyDown="Window_KeyDown">
+    <Grid HorizontalAlignment="Center">
+        <Label Content="Выбор критерий поиска" HorizontalAlignment="Left" Margin="15,68,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.408,0.458" FontSize="20"/>
+        <ComboBox x:Name="explorer_box" HorizontalAlignment="Left" Margin="268,70,0,0" VerticalAlignment="Top" Width="211" Height="35">
+            <ComboBoxItem>Наименование номера</ComboBoxItem>
+            <ComboBoxItem>Вместимость номера</ComboBoxItem>
+            <ComboBoxItem>Описание номера</ComboBoxItem>
+            <ComboBoxItem>Стоимость номера</ComboBoxItem>
+            <ComboBoxItem>Наименование сервиса</ComboBoxItem>
+            <ComboBoxItem>Описание сервиса</ComboBoxItem>
+            <ComboBoxItem>Стоимость сервиса</ComboBoxItem>
+        </ComboBox>
+        <Label Content="Ввод значение поиска" HorizontalAlignment="Left" Margin="511,68,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <TextBox x:Name="explorer_textBox" HorizontalAlignment="Left" Height="35" Margin="746,70,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="292" FontSize="20"/>
+        <Button Content="Поиск" HorizontalAlignment="Left" Margin="1056,70,0,0" VerticalAlignment="Top" Width="75" Height="35" Click="Button_Click_4" RenderTransformOrigin="0.475,1.029"/>
+        <TextBlock Name="login_object" HorizontalAlignment="Left" Margin="1184,30,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="180" TextAlignment="Center" Height="26" FontSize="20"/>
+        <Button Content="Выход из профиля" HorizontalAlignment="Left" Margin="1184,61,0,0" VerticalAlignment="Top" Width="180" Height="37" FontSize="20" Click="Button_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="320,157,0,0" TextWrapping="Wrap" Text="Номера" VerticalAlignment="Top" TextAlignment="Center" FontSize="20"/>
+        <DataGrid Name="table_rooms" HorizontalAlignment="Left" Height="409" Margin="35,189,0,0" VerticalAlignment="Top" Width="677"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1037,157,0,0" TextWrapping="Wrap" Text="Сервис" VerticalAlignment="Top" FontSize="20" TextAlignment="Center"/>
+        <DataGrid Name="table_services" HorizontalAlignment="Left" Height="409" Margin="746,189,0,0" VerticalAlignment="Top" Width="618"/>
+        <Button Content="Обновить" HorizontalAlignment="Left" Margin="666,615,0,0" VerticalAlignment="Top" Width="127" FontSize="20" Height="40" Click="Button_Click_1"/>
+    </Grid>
+</Window>

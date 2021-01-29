@@ -1,0 +1,15 @@
+﻿<Window x:Class="DB_Hotel_prototip_.Choice_User"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DB_Hotel_prototip_"
+        mc:Ignorable="d"
+        Title="DB_Hotel Choice_User" Height="189.453" Width="230.315"
+        ResizeMode = "NoResize"
+        WindowStartupLocation="CenterScreen" Icon="H.ico" KeyDown="Window_KeyDown">
+    <Grid>
+        <Button Content="Создание&#xD;&#xA;пользователя" HorizontalAlignment="Left" Margin="73,41,0,0" VerticalAlignment="Top" Width="82" Height="35" Click="Button_Click"/>
+        <Button Content="Удаление&#xD;&#xA;пользователя" HorizontalAlignment="Left" Margin="73,99,0,0" VerticalAlignment="Top" Width="82" Click="Button_Click_1"/>
+    </Grid>
+</Window>

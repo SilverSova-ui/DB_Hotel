@@ -1,0 +1,82 @@
+﻿<Window x:Class="DB_Hotel_prototip_.personnel_department"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DB_Hotel_prototip_"
+        mc:Ignorable="d"
+        Background="#FFE5E5E5"
+        Title="DB_Hotel personnel_department" Height="802.697" Width="1059.733"
+        MinHeight="802.697" MinWidth="1059.733"
+        MaxHeight="1080" MaxWidth="1920"
+        WindowState="Maximized"
+        WindowStartupLocation="CenterScreen" Icon="H.ico" KeyDown="Window_KeyDown">
+    <Grid HorizontalAlignment="Center" Background="#FFE5E5E5">
+        <Button Content="Выход из профиля" HorizontalAlignment="Left" Margin="835,89,0,0" VerticalAlignment="Top" Width="193" FontSize="20" Height="36" RenderTransformOrigin="0.482,0.528" Click="Button_Click_2"/>
+        <ComboBox x:Name="explorer_box"  HorizontalAlignment="Left" Margin="165,89,0,0" VerticalAlignment="Top" Width="147">
+            <TextBlock FontSize="16">Записи из таблицы сотрудники</TextBlock>
+            <ComboBoxItem>Код сотрудника</ComboBoxItem>
+            <ComboBoxItem>Фамилия</ComboBoxItem>
+            <ComboBoxItem>Имя</ComboBoxItem>
+            <ComboBoxItem>Отчество</ComboBoxItem>
+            <ComboBoxItem>Возраст</ComboBoxItem>
+            <ComboBoxItem>Пол</ComboBoxItem>
+            <ComboBoxItem>Адрес по прописке</ComboBoxItem>
+            <ComboBoxItem>Адрес фактического проживание</ComboBoxItem>
+            <ComboBoxItem>Серия</ComboBoxItem>
+            <ComboBoxItem>Подразделение</ComboBoxItem>
+            <ComboBoxItem>Дата выдачи</ComboBoxItem>
+            <ComboBoxItem>Кто выдал</ComboBoxItem>
+            <ComboBoxItem>Телефон</ComboBoxItem>
+            <TextBlock FontSize="16">Записи из таблицы сотрудники</TextBlock>
+            <ComboBoxItem>Код должности</ComboBoxItem>
+            <ComboBoxItem>Наименование должности</ComboBoxItem>
+            <ComboBoxItem>Обязанности</ComboBoxItem>
+            <ComboBoxItem>Требование</ComboBoxItem>
+            <ComboBoxItem>Оклад</ComboBoxItem>
+        </ComboBox>
+        <TextBox x:Name="explorer_textBox" HorizontalAlignment="Left" Height="26" Margin="464,86,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="244" FontSize="16"/>
+        <Button Content="Поиск" HorizontalAlignment="Left" Margin="723,86,0,0" VerticalAlignment="Top" Width="75" Height="26" Click="Button_Click_1"/>
+        <DataGrid Name="table" IsReadOnly="True" HorizontalAlignment="Left" Height="578" Margin="10,136,0,0" VerticalAlignment="Top" Width="779"/>
+        <Button Content="Переход к таблицы&#xD;&#xA;сотрудники" HorizontalAlignment="Left" Margin="835,153,0,0" VerticalAlignment="Top" Width="193" Height="49" FontSize="16" Click="Button_Click_3"/>
+        <Button Content="Переход к таблицы&#xD;&#xA;должности" HorizontalAlignment="Left" Height="48" Margin="835,235,0,0" VerticalAlignment="Top" Width="193" FontSize="16" Click="Button_Click_4"/>
+        <ComboBox x:Name="Fil" HorizontalAlignment="Left" Margin="835,349,0,0" VerticalAlignment="Top" Width="193" Text="Select Feedback Type:" RenderTransformOrigin="-0.01,0.625" Height="27">
+            <CheckBox x:Name="Check_ID_Emp">Код сотрудников</CheckBox>
+            <CheckBox x:Name="Check_Sur">Фамилия</CheckBox>
+            <CheckBox x:Name="Check_Names">Имя</CheckBox>
+            <CheckBox x:Name="Check_Patr">Отчество</CheckBox>
+            <CheckBox x:Name="Check_Year">Возраст</CheckBox>
+            <CheckBox x:Name="Check_Gendr">Пол</CheckBox>
+            <CheckBox x:Name="Check_Registered">Адрес по прописке</CheckBox>
+            <CheckBox x:Name="Check_actual">Адрес фактического проживание</CheckBox>
+            <CheckBox x:Name="Check_Series">Серия</CheckBox>
+            <CheckBox x:Name="Check_ID_Pass">Номер паспорта</CheckBox>
+            <CheckBox x:Name="Check_Subdivision">Подразделение</CheckBox>
+            <CheckBox x:Name="Check_Date">Дата выдачи</CheckBox>
+            <CheckBox x:Name="Check_Issued">Кто выдал</CheckBox>
+            <CheckBox x:Name="Check_Phones">Телефон</CheckBox>
+        </ComboBox>
+        <ComboBox HorizontalAlignment="Left" Margin="835,433,0,0" VerticalAlignment="Top" Width="193" Height="27">
+            <CheckBox x:Name="Check_ID">Код должностей</CheckBox>
+            <CheckBox x:Name="Check_Job">Наименование должности</CheckBox>
+            <CheckBox x:Name="Check_Dut">Обязанности</CheckBox>
+            <CheckBox x:Name="Check_Requ">Требование</CheckBox>
+            <CheckBox x:Name="Check_Sal">Оклад</CheckBox>
+        </ComboBox>
+        <Button x:Name="button" Content="Формирование&#xD;&#xA;отчета" HorizontalAlignment="Left" Margin="838,494,0,0" VerticalAlignment="Top" Width="193" Height="64" FontSize="20" Click="button_Click_6"/>
+        <Button Content="Очистить выбор&#xD;&#xA;полей" HorizontalAlignment="Left" Margin="838,579,0,0" VerticalAlignment="Top" Width="190" Height="61" FontSize="20" Click="Button_Click_5"/>
+        <Button Content="Вывод данных" HorizontalAlignment="Left" Margin="835,673,0,0" VerticalAlignment="Top" Width="193" RenderTransformOrigin="0.518,3.656" FontSize="20" Height="41" Click="Button_Click"/>
+        
+        <TextBlock x:Name="login_role" HorizontalAlignment="Left" Height="24" Margin="835,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="193" TextAlignment="Center" FontSize="12"><Run Text="TextBox"/></TextBlock>
+        <TextBlock x:Name="login_object_output" HorizontalAlignment="Left" Margin="835,21,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontSize="18" RenderTransformOrigin="0.197,0.669" Width="193" TextAlignment="Center"/>
+        
+        <TextBlock HorizontalAlignment="Left" Margin="441,18,0,0" TextWrapping="Wrap" Text="Отдел кадров" VerticalAlignment="Top" FontSize="20" RenderTransformOrigin="1.048,0.519" Height="26" Width="128"/>
+
+        <Label Content="Выбор критерия поиска" HorizontalAlignment="Left" Margin="9,86,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.408,0.458"/>
+        <Label Content="Ввод значение поиска" HorizontalAlignment="Left" Margin="323,86,0,0" VerticalAlignment="Top"/>
+        <Image x:Name="return_2" HorizontalAlignment="Left" Height="41" Margin="59,33,0,0" VerticalAlignment="Top" Width="47" Source="Strelka.png" RenderTransformOrigin="0.496,0.537" MouseLeftButtonUp="return_2_MouseLeftButtonUp"/>
+        <TextBlock HorizontalAlignment="Left" Margin="823,322,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Width="215" Height="22" TextAlignment="Center"><Run Text="Поля таблицы сотрудник"/><Run Text="и"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="823,406,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="16" Width="215" Height="22" TextAlignment="Center"><Run Text="Поля таблицы "/><Run Text="должности"/></TextBlock>
+        
+    </Grid>
+</Window>
